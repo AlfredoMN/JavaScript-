@@ -1,2 +1,2 @@
 var difference = 45 - 33;
-console.log(difference);
+System.out.println(difference);
